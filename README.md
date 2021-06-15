@@ -1,1 +1,1 @@
-## Mini-Redis Client
+## Mini-Redis Server
